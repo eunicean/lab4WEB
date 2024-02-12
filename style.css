@@ -420,6 +420,11 @@
     grid-column: 1 / span 7;
     grid-row: 4 / span 2;
     background-color: #050402;
+    background: linear-gradient(
+        #050402 50%,
+        #161209 50% 75%,
+        #2b2312 75%
+    );
     position: relative;
     margin-top: 60px;
 }
